@@ -1,4 +1,4 @@
-# DS+X: Food Access & Surplus Mapping Project
+# DS+X: Reduce Food Waste, Increase Food Access
 
 ## Philip Hoang, Nora Amer, Jen Tang, Kiko Xu, Shawn Lau
 
